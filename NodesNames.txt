@@ -1,0 +1,12 @@
+Houses
+Hospital
+School
+Busstand
+Market
+Police_station
+College
+Offices
+Gardens
+Restaurants
+Shops
+Industries
